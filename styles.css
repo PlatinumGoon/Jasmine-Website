@@ -1,4 +1,24 @@
-h1 {
-    
-  }
-  
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+h1{
+  color: aliceblue;
+  font-family: "Great Vibes", serif;
+  font-size: 750%;
+}
+.hero {
+  background-color: #696969;
+  background-image: url("Images/Elytheia_Dance.jpg");
+  background-blend-mode: multiply;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+
+}
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
